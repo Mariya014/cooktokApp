@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.mariya014.cooktokapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.mariya014.cooktokapp"
